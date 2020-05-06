@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: testrunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.372 s <<< FAILURE! - in testrunner.TestRunner
+initializationError(testrunner.TestRunner)  Time elapsed: 0.006 s  <<< ERROR!
+cucumber.runtime.DuplicateStepDefinitionException: Duplicate step definitions in stepDefinitions.StepsBidder.Login_to_the_Application() in file:/C:/Users/CSS/eclipse-workspace/CucumberwithSelenium/target/test-classes/ and stepDefinitions.StepsSeller.Login_to_the_Application() in file:/C:/Users/CSS/eclipse-workspace/CucumberwithSelenium/target/test-classes/
+
